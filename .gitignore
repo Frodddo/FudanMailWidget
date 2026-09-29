@@ -1,0 +1,9 @@
+.DS_Store
+dist/
+.module-cache/
+.pycache/
+**/__pycache__/
+*.pyc
+.env
+*.env
+!.env.example
